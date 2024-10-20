@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://w0.peakpx.com/wallpaper/347/318/HD-wallpaper-black-waves-black-thumbnail.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.text {
+    float: left;
+    width: 50%;
+    padding-right: 100px;
+    text-align: justify;
+    color: white;
+}
+.image {
+    float: right;
+    width: 40%;
+    text-align: right;
+}
+.image img {
+    max-width: 100%;
+    height: auto;
+}
+
